@@ -5,9 +5,9 @@ Plugin Using (1.19-R0.1-SNAPSHOT): BungeeCord, Waterfall, InfinityCord, FlameCor
 
 ## Download
 
-[Donwload InfinityElasticBungee v1.0.2](InfinityElasticBungee-1.0.2.jar)
+[Donwload InfinityElasticBungee v1.0.2](https://github.com/HappyRogelio7/InfinityElasticBungee/blob/master/Download/InfinityElasticBungee-1.0.2.jar)
 
-[Donwload Dependency InfinityElasticBungee v1.0.2](InfinityElasticBungee-1.0.2-jar-with-dependencies.jar)
+[Donwload Dependency InfinityElasticBungee v1.0.2](https://github.com/HappyRogelio7/InfinityElasticBungee/blob/master/Download/InfinityElasticBungee-1.0.2-jar-with-dependencies.jar)
 
 ---
 
