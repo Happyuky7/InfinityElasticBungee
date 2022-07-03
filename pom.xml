@@ -6,7 +6,7 @@
 
     <groupId>com.github.kaorystudios.mc.happyrogelio7</groupId>
     <artifactId>InfinityElasticBungee</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <!-- Plugin Information -->

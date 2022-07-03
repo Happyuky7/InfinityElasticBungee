@@ -16,12 +16,12 @@ public class SubSendGlobalAlertProxyCommand {
     }
 
     public void execute(CommandSender sender, String[] args) {
-        if (args.length == 1) {
+        if (args.length == 0) {
             sender.sendMessage(new ComponentBuilder("Usage: /eb galert <message>").color(ChatColor.RED).create());
             return;
         }
 
-        if (args.length > 1) {
+        if (args.length > 0) {
             String alertmsg = Joiner.on(" ").skipNulls().join(args);
             this.plugin.getBroadcastSync().broadcast(plugin.getConfig().getString("messages.global-alert") + " " + alertmsg);
             TextComponent message = new TextComponent();
