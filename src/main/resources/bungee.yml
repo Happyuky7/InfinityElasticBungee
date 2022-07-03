@@ -1,0 +1,4 @@
+name: InfinityElasticBungee
+version: '${project.version}'
+main: com.github.kaorystudios.mc.happyrogelio7.infinityelasticbungee.InfinityElasticBungee
+description: InfinityElasticBungee
