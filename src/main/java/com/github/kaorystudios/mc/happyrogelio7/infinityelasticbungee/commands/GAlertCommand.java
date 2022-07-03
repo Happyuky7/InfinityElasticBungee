@@ -19,7 +19,7 @@ public class GAlertCommand extends Command {
 
     @Override
     public void execute(CommandSender sender, String[] args) {
-        if (args.length <= 1) {
+        if (args.length == 0) {
             sender.sendMessage(MessageUtils.getMsgColor("&aUsage: &f/galert &3<message>"));
             return;
         }
