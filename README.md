@@ -2,13 +2,13 @@
 > [!NOTE] 
 > ## It should currently work without problems, I am working on a RE-CODE and an update and compatibility with Velocity.
 
-Plugin Using (1.19-R0.1-SNAPSHOT): BungeeCord, Waterfall, InfinityCord, FlameCord, XCord, NullCordX, etc.
+Plugin Using (1.19-R0.1-SNAPSHOT): BungeeCord (Free), Waterfall (No maintenance), InfinityCord (IN process), FlameCord (PAY), XCord (PAY), NullCordX (PAY), etc.
 
 ## Download
 
-[Donwload InfinityElasticBungee v1.0.2](https://github.com/HappyRogelio7/InfinityElasticBungee/blob/master/Download/InfinityElasticBungee-1.0.2.jar)
+[Donwload InfinityElasticBungee v1.0.2](https://github.com/Happyuky7/InfinityElasticBungee/blob/master/Download/InfinityElasticBungee-1.0.2.jar)
 
-[Donwload Dependency InfinityElasticBungee v1.0.2](https://github.com/HappyRogelio7/InfinityElasticBungee/blob/master/Download/InfinityElasticBungee-1.0.2-jar-with-dependencies.jar)
+[Donwload Dependency InfinityElasticBungee v1.0.2](https://github.com/Happyuky7/InfinityElasticBungee/blob/master/Download/InfinityElasticBungee-1.0.2-jar-with-dependencies.jar)
 
 ---
 
@@ -18,7 +18,7 @@ To compile InfinityElasticBungee, you need JDK17, git, bash, maven.
 
 Clone the repository with the following command:
 ```bash
-$ git clone https://github.com/HappyRogelio7/InfinityElasticBungee.git
+$ git clone https://github.com/Happyuky7/InfinityElasticBungee.git
 ```
 
 Once downloaded in the git terminal use the following command:
@@ -42,13 +42,10 @@ $ mvn clean install
 
 # Aditional Information
 
-[My website](https://happyrogelio7.xyz), My website
+[My website](https://happy7.xyz), My website
 
 [Discord](https://discord.gg/3EebYUyeUX), Support My Server Discord
 
-[Kaory Studios](https://kaorystudios.xyz), Support Kaory Studios
-
-[Kaory Studios Discord](https://discord.gg/Gw7m8kC), Support Kaory Studios
 
 ---
 
@@ -68,5 +65,5 @@ $ mvn clean install
 
 ---
 
-© copyright HappyRogelio7 2017-2022 ©
+© Copyright Happyuky7 2017-2024 ©
 RIGHTS RESERVED
