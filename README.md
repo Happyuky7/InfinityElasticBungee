@@ -1,5 +1,6 @@
 # InfinityElasticBungee
-
+> [!NOTE] 
+> ## It should currently work without problems, I am working on a RE-CODE and an update and compatibility with Velocity.
 
 Plugin Using (1.19-R0.1-SNAPSHOT): BungeeCord, Waterfall, InfinityCord, FlameCord, XCord, NullCordX, etc.
 
